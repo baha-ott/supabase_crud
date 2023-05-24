@@ -5,8 +5,15 @@ const Nav = () => {
   return (
     <nav>
       <h1>Supa Smoothies</h1>
-      <NavLink to="/">Home</NavLink>
-      <NavLink to="/create">Create New Smoothie</NavLink>
+      <NavLink to="/" className={({ isActive }) => (isActive ? "active__link" : "")}>
+        Home
+      </NavLink>
+      <NavLink
+        to="/create"
+        className={({ isActive }) => (isActive ? "active__link" : "")}
+      >
+        Create New Smoothie
+      </NavLink>
     </nav>
   );
 };

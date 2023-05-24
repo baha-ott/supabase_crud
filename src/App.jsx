@@ -1,5 +1,4 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-
 // pages
 import Home from "./pages/Home";
 import Create from "./pages/Create";
@@ -22,6 +21,7 @@ const router = createBrowserRouter([
       {
         path: "/:id",
         element: <Update />,
+
       },
     ],
   },
