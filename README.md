@@ -9,7 +9,7 @@
 
 ### Home
 
-![Screenshot]("https://github.com/baha-ott/supabase_crud/tree/main/screenshots/homepage.png")
+![Screenshot](https://github.com/baha-ott/supabase_crud/tree/main/screenshots/homepage.png)
 
 ### Edit
 
