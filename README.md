@@ -1,6 +1,6 @@
 # supabase_crud
 
-## what did i learn with project ?
+## what did i learn with this small project ?
 
 - the basic supabase database
 - how to work with supabase in react
