@@ -1,9 +1,13 @@
+import supabase from "../config/supabaseClient";
+
 const Home = () => {
-    return (
-      <div className="page home">
-        <h2>Home</h2>
-      </div>
-    )
-  }
-  
-  export default Home
+  console.log(supabase);
+  // we are going use this to interact with backend later
+  return (
+    <div className="page home">
+      <h2>Home</h2>
+    </div>
+  );
+};
+
+export default Home;
