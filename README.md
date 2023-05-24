@@ -1,6 +1,6 @@
 # supabase_crud
 
-## what did i learn with project ?
+## what did i learn with this small project ?
 
 - the basic supabase database
 - how to work with supabase in react
@@ -9,12 +9,12 @@
 
 ### Home
 
-![Screenshot]("./screenshots/homepage.png")
+![Screenshot](./screenshots/homepage.png?raw=true)
 
 ### Edit
 
-![Screenshot]("./screenshots/editpage.png")
+![Screenshot](./screenshots/editpage.png?raw=true)
 
 ### Create
 
-![Screenshot](".screenshots/createpage.png")
+![Screenshot](./screenshots/createpage.png?raw=true)
