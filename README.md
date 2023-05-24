@@ -9,7 +9,7 @@
 
 ### Home
 
-![Screenshot](https://github.com/baha-ott/supabase_crud/tree/main/screenshots/homepage.png)
+![Screenshot](./screenshots/homepage.png?raw=true)
 
 ### Edit
 
@@ -17,4 +17,4 @@
 
 ### Create
 
-![Screenshot](".screenshots/createpage.png")
+![Screenshot](./screenshots/createpage.png?raw=true)
