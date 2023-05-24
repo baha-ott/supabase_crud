@@ -9,12 +9,12 @@
 
 ### Home
 
-![Screenshot]("C:\Users\bahaa\Downloads\homepage.png")
+![Screenshot]("./screenshots/homepage.png")
 
 ### Edit
 
-![Screenshot]("C:\Users\bahaa\Downloads\editpage.png")
+![Screenshot]("./screenshots/editpage.png")
 
 ### Create
 
-![Screenshot]("C:\Users\bahaa\Downloads\createpage.png")
+![Screenshot](".screenshots/createpage.png")
