@@ -13,7 +13,7 @@
 
 ### Edit
 
-![Screenshot]("./screenshots/editpage.png")
+![Screenshot](./screenshots/editpage.png?raw=true)
 
 ### Create
 
